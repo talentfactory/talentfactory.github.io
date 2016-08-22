@@ -20,11 +20,12 @@ Monaco - Lyon: 493 km
 Lille - Lyon: 692 km
 They finished 2nd in the 2015/1016 season in League 1, just staying ahead of Monaco with a better goal difference.
 
-CapturFiles_2
+
+![gras](images/league-table-start.png)
 
 In the Coupe the France they've lost to PSG in the round of sixteen to with 0:3.
 
-History
+# History
 
 488px-Olympique_Lyonnais.svg
 
@@ -54,6 +55,9 @@ Trophée des Champions Winners: 1973, 2002, 2003, 2004, 2005, 2006, 2007, 2012
 
 Olympique Lyonnais's Stadium is called Parc Olympique Lyonnais or Stade des Lumières. They've moved to their brand new Stadium in January 2016.  With a sellout of 55,169, the local side smashed Troyes AC with 4:1 in their first game at the new ground.
 
+![gras](images/stadium-1.jpg)
+![gras](images/stadium-3.jpg)
+![gras](images/stadium-4.jpg)
 
 
 
@@ -63,7 +67,7 @@ Most importantly is that the Stadium was built with private funds instead of pub
 
 Second major objective was to address protests of local residents. The stadium lies in Décines-Charpieu, a small commune in Lyon’s eastern suburbs, and consumed 44 hectares, becoming the area’s largest development. For Olympique this location was only the second choice, but proved a great choice due to great road network and proximity of the international airport.
 
-access-gs-oct
+![gras](images/access-stadium.jpg)
 
 The stands offers 60,000 seats and 10% of them are dedicated to corporate clients. Of the 6,000 business seats some 1,400 are spread across 105 skyboxes, while remainder is located in the stands, with access to a total of 8 large business lounges.
 
@@ -73,10 +77,9 @@ Interesting Fact: The roof of the Stadium manages to collect rainwater for inter
 
 # President
 
-jean-michel20aulas
-
 Jean-Michel Aulas is a French businessman and owner/chairman of the club. He owns the club since 1987 and was also the last president of the prestigious G-14. According to wikipedia his net worth was €348 million.
 
+![gras](images/president.jpg)
 
 
 On 15 June 1987, Aulas took control of Olympique Lyonnais and invested in the club with the objective of turning Lyon into an established Ligue 1 side. His ambitious plan was to improve the club's status fight back  the first division within a timeframe of no more than four years. After ridding the club of its debt, Aulas restructured the club's management and reorganized the finances and, in a span of two decades, transformed the club from a second division team into one of the richest football clubs in the world.
