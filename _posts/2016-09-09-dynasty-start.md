@@ -13,7 +13,7 @@ Although I've never managed a club from France in Football Manager, I decided to
 
 The biggest challenges will be to challenge the rich-kids from PSG, but I am confident we'll be able to surpass them. I am not sure if we can do it in the first season, but on a long term it is surely possible.
 
-![gras](images/lyon-banner.jpg)
+![gras](/images/lyon-banner.jpg)
 
 
 
@@ -54,9 +54,9 @@ Trophée des Champ. |  1973, 2002, 2003, 2004, 2005, 2006, 2007, 2012
 
 Olympique Lyonnais's Stadium is called Parc Olympique Lyonnais or Stade des Lumières. They've moved to their brand new Stadium in January 2016.  With a sellout of 55,169, the local side smashed Troyes AC with 4:1 in their first game at the new ground.
 
-![gras](images/stadium-1.jpg)
-![gras](images/stadium-3.jpg)
-![gras](images/stadium-4.jpg)
+![gras](/images/stadium-1.jpg)
+![gras](/images/stadium-3.jpg)
+![gras](/images/stadium-4.jpg)
 
 
 
