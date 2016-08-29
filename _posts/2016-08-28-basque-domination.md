@@ -16,18 +16,20 @@ Athletic Bilbao is one the biggest Club from the Spanish city Bilbao, it lays qu
 
 Although they do not sign players from all over the world they have been pretty successful with 8(!) Liga and 23 Spanish Cup trophies. We must say the last time we have won silverware was in the year 1984. In the Season 1997/1998 they came pretty close while finishing 2nd.
 
-![gras](/images/titles.jpg)
+{% lightbox images/titles.jpg --data="appfoundry_image_set" --title="Titles"  %}
 
 
 # Stadium
 The games are played in the San Mames stadium which was build 2013 and is knows for one of the toughest games for the big guys in spain. The San Mames is a 53,332 all-seater:
 
-![gras](/images/sanmames.jpg)
+{% lightbox images/sanmames.jpg --data="appfoundry_image_set" --title="The Stadium"  %}
+
 
 # Manager
 As I always like to recreate former footballers that are local heros for my football manager careers I'll do this again. Athletic Bilbao will be managed by former Bayern defender Bixtente Lizarazu. You may asking yourself why is this even possible?
 
-![gras](/images/liza.jpg)
+{% lightbox images/liza.jpg --data="appfoundry_image_set" --title="Bixente Lizarazu"  %}
+
 
 The clue is that Lizarazu was born in the French Part of the Basque so it not a problem (like Griezmann, but was found to be small to be a first team player).
 
@@ -35,6 +37,9 @@ The clue is that Lizarazu was born in the French Part of the Basque so it not a 
 We will be playing in the Liga BBVA, the spanish Super Cup, the Spanish Cup and in the EURO Cup. So apparently due to the early start we must be ready pretty early in the season while competing against Barcelona in the Super Cup and playing against Brondby IF or Zelkeznicar in the 3rd Qualification Round of EURO Cup. According to the Bookmakers we should be finishing 6th at the end of the season, which means we should qualify for Europe again.
 
 ![gras](/images/draw.jpg)
+
+{% lightbox images/draw.jpg --data="appfoundry_image_set" --title="EURO Cup draw"  %}
+
 
 
 # Rivalries
@@ -45,19 +50,23 @@ I'll be playing with a tactic I've found on fm-base.co.uk. I like this tactic a 
 
  Our right wingback will have a lot of space, the idea of the tactic is that the libero will provide him with a lot of balls as kind of a deep lying playmaker. And hopefully the WB will run down the side and  provide lots of crossing that he forwards hopefully will be able to net in. And on the other side the raumdeuter will be able to move to the freespace and score goals as well.  
 
-![gras](/images/tactic.jpg)
+{% lightbox images/tactic.jpg --data="appfoundry_image_set" --title="The Tactic"  %}
+
 
 
 # Key players
 One of the best player at the club, high profiled youngster **Iker Munian** is still out for a few month but I am looking forward to smash the opponents with him on the Raumdeuter role. For  now one Inaki Williams will do his job.
 
-![gras](/images/muniain.jpg)
+{% lightbox images/muniain.jpg --data="appfoundry_image_set" --title="Iker Muniain Profile"  %}
 
 
-Another star player and quite a Legend at the club will be play in the goalkeeping positon: Gorka Iraizoz. He's already 34 years old and plays already 10 years at the club:
 
-![gras](/images/iraizoz.jpg)
+Another star player and quite a Legend at the club will be play in the goalkeeping positon: **Gorka Iraizoz**. He's already 34 years old and plays already 10 years at the club:
+
+{% lightbox images/iraizoz.jpg --data="appfoundry_image_set" --title="Gorka Iraizoz Profile"  %}
+
 
 
 Upfront all our hopes lay on 34-year old **Aritz Aduriz**. In real life football he was having some great goalscoring stats and based on this Del Bosque decided to call him for the Spanish Nationalteam:
-![gras](/images/aduriz.jpg)
+
+{% lightbox images/aduriz.jpg --data="appfoundry_image_set" --title="Aritz Aduriz Profile"  %}
