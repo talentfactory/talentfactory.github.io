@@ -21,7 +21,6 @@ Although they do not sign players from all over the world they have been pretty 
 # Stadium
 The games are played in the San Mames stadium which was build 2013 and is knows for one of the toughest games for the big guys in spain. The San Mames is a 53,332 all-seater:
 
-{% lightbox images/sanmames.jpg --data="appfoundry_image_set" --title="The Stadium"  %}
 ![gras](/images/sanmames.jpg)
 
 
