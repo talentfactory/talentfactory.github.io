@@ -16,19 +16,19 @@ Athletic Bilbao is one the biggest Club from the Spanish city Bilbao, it lays qu
 
 Although they do not sign players from all over the world they have been pretty successful with 8(!) Liga and 23 Spanish Cup trophies. We must say the last time we have won silverware was in the year 1984. In the Season 1997/1998 they came pretty close while finishing 2nd.
 
-{% lightbox images/titles.jpg --data="appfoundry_image_set" --title="Titles"  %}
-
+![gras](/images/titles.jpg)
 
 # Stadium
 The games are played in the San Mames stadium which was build 2013 and is knows for one of the toughest games for the big guys in spain. The San Mames is a 53,332 all-seater:
 
 {% lightbox images/sanmames.jpg --data="appfoundry_image_set" --title="The Stadium"  %}
+![gras](/images/sanmames.jpg)
 
 
 # Manager
 As I always like to recreate former footballers that are local heros for my football manager careers I'll do this again. Athletic Bilbao will be managed by former Bayern defender Bixtente Lizarazu. You may asking yourself why is this even possible?
 
-{% lightbox images/liza.jpg --data="appfoundry_image_set" --title="Bixente Lizarazu"  %}
+![gras](/images/liza.jpg)
 
 
 The clue is that Lizarazu was born in the French Part of the Basque so it not a problem (like Griezmann, but was found to be small to be a first team player).
@@ -38,7 +38,6 @@ We will be playing in the Liga BBVA, the spanish Super Cup, the Spanish Cup and 
 
 ![gras](/images/draw.jpg)
 
-{% lightbox images/draw.jpg --data="appfoundry_image_set" --title="EURO Cup draw"  %}
 
 
 
@@ -48,25 +47,24 @@ The biggest rivals are for sure Real Socieded and Osasuna. They're both from the
 # Tactic
 I'll be playing with a tactic I've found on fm-base.co.uk. I like this tactic a lot, beacause it uses rare player roles like a libero and a raumdeuter. The Idea is to have 5 players at the back when defending and only 2 or 3 when attacking. We  hope to score a lot of goals by the 3 attacking guys: the poacher, the false nine and the raumdeuter. *raumdeuter* is literally translated from German as it says in FM and means "space investigator". The **Libero** is another role that is not used much in current football, but the idea of the tactic is to use him as the main playmaking player and he will be part of our attack as well. As he is not a pure defender we will need to retrain a midfielder to  this position. The idea is to use fast wingback to  make our game as wide as possible.
 
- Our right wingback will have a lot of space, the idea of the tactic is that the libero will provide him with a lot of balls as kind of a deep lying playmaker. And hopefully the WB will run down the side and  provide lots of crossing that he forwards hopefully will be able to net in. And on the other side the raumdeuter will be able to move to the freespace and score goals as well.  
+ Our right wingback will have a lot of space, the idea of the tactic is that the libero will provide him with a lot of balls as kind of a deep lying playmaker. And hopefully the WB will run down the side and  provide lots of crossing that he forwards hopefully will be able to net in. And on the other side the raumdeuter will be able to move to the free space and score goals as well.  
 
-{% lightbox images/tactic.jpg --data="appfoundry_image_set" --title="The Tactic"  %}
-
+![gras](/images/tactic.jpg)
 
 
 # Key players
 One of the best player at the club, high profiled youngster **Iker Munian** is still out for a few month but I am looking forward to smash the opponents with him on the Raumdeuter role. For  now one Inaki Williams will do his job.
 
-{% lightbox images/muniain.jpg --data="appfoundry_image_set" --title="Iker Muniain Profile"  %}
+![gras](/images/muniain.jpg)
 
 
 
 Another star player and quite a Legend at the club will be play in the goalkeeping positon: **Gorka Iraizoz**. He's already 34 years old and plays already 10 years at the club:
 
-{% lightbox images/iraizoz.jpg --data="appfoundry_image_set" --title="Gorka Iraizoz Profile"  %}
+![gras](/images/iraizoz.jpg)
 
 
 
 Upfront all our hopes lay on 34-year old **Aritz Aduriz**. In real life football he was having some great goalscoring stats and based on this Del Bosque decided to call him for the Spanish Nationalteam:
 
-{% lightbox images/aduriz.jpg --data="appfoundry_image_set" --title="Aritz Aduriz Profile"  %}
+![gras](/images/aduriz.jpg)

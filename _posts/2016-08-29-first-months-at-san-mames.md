@@ -11,14 +11,15 @@ We started the season with 9 millions transfer budget, not bad at all,  but with
 As we were forced to play competitive matches pretty early this season, we did not have as much time for training as I would like. So I was a bit nervous about the season takeoff. Fortunately were our opponents in the EURO Cup not too. We were able to smash Brondby IF and Belenenses without any problems and qualified ourselves for the Group Stage.
 
 
-{% lightbox images/first-results.jpg --data="appfoundry_image_set"  %}
+![gras](/images/first-results.jpg)
+
 
 We only lost the 3 games against Barcelona with not much between us and the world class players from the catalan side. So this wasn't a start we dreamed of but for good we could win the following two league games and started with 3 points to EURO Cup Group Stage.
 
 
 But after that we went through a little crisis and didn't manage to win anything in the following games. But then a late equalizer in minute 94 worked wonders. We smashed the current number one of the Valencia CF with 4-0 at home, what a game!
 
-{% lightbox images/valencia.jpg --data="appfoundry_image_set"  %}
+![gras](/images/valencia.jpg)
 
 
 After that glorious win, we did really well and just lost an away game against Atletico and the games in league and cup against Barcelona. Due to this results we managed to get ourselves ready for the fight for the european places.
@@ -31,7 +32,8 @@ I've to admin that I've never experienced a deadline day like this in Football M
 
 The good thing about the last day before the transfer window before it has been closed, is that PSG have bid for this young talent, that I've overseen while looking at my youth squads:
 
-{% lightbox images/villalibre.jpg --data="appfoundry_image_set" --title="Asier Villalibre"  %}
+![gras](/images/villalibre.jpg)
+
 
 
 **Asier Villalibre** is a pretty decent guy and could step up when Aritz Aduriz reaches his retirement.
@@ -44,10 +46,10 @@ During the first months of the season I could get some scouts to Europe to look 
 
 After a few days in 2017, Manchester United came up with a bid for De Marcos and Chelsea was trying to get Iñaki Williams. I managed to get over 40 millions for De Marcos, so there was no point in rejecting the offer as it was way too good. Chelsea was willing to pay the 54 million release clause in Williams contract, but in the last moment they realized, that they did not have enough money on the bank.
 
-{% lightbox images/transfer-overview.jpg --data="appfoundry_image_set" %}
+![gras](/images/transfer-overview.jpg)
 
 
 But the millions from the De Marcos transfer were enough to snap up Monreal from Arsenal and Ruffier from Saint-Etienne.
 
-{% lightbox images/monreal.jpg --data="appfoundry_image_set" %}
-{% lightbox images/ruffier.jpg --data="appfoundry_image_set" %}
+![gras](/images/monreal.jpg)
+![gras](/images/ruffier.jpg)
